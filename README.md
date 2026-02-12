@@ -20,7 +20,7 @@ const Priyanshu = {
 
 <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🎯 Goals for 2026
+###                🎯 Goals for 2026
 
 - [ ] Contribute to **Open Source Projects**
 - [ ] Master **Automation Testing** & **Microservices**
