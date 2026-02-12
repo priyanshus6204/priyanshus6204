@@ -5,7 +5,7 @@
 ### Software Developer | Automation Test Engineer | Cloud & Microservices Explorer
 
 ---
-
+<div align="center">
 ## 🚀 About Me
 
 ```typescript
@@ -19,8 +19,8 @@ const Priyanshu = {
 ```
 
 <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-
+</div>
+<div align="center">
 ## 🎯 Goals for 2026
 
 - [ ] Contribute to **Open Source Projects**
@@ -29,6 +29,7 @@ const Priyanshu = {
 - [ ] Build and Test **Production-Ready** Application
 
 ---
+</div>
 
 <div align="center">
 
