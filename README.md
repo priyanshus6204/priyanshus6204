@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Priyanshu Saini%20Ghosh&fontSize=80&fontAlignY=55&animation=fadeIn&fontColor=fff)
+
 
 ### Software Developer | Automation Test Engineer | Cloud & Microservices Explorer
 
