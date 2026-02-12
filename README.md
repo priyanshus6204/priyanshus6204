@@ -6,13 +6,13 @@
 
 ---
 <div align="center">
-### 🚀 About Me
+      🚀 About Me
 
 ```typescript
 const Priyanshu = {
     education: "B.Tech in Artificial Inteligence and Data Science (4th Year)",
     location: "Hyderabad India",
-    currentFocus: ["Microservices Architecture", "Scalable Backend", "System Design"],
+    currentFocus: ["TestNG", "Selenium Automation", "Cucumber","PostMan"],
     interests: ["Automation Testing", "Backend Development", "DevOps", "Content Writing"],
     resume: "https://drive.google.com/drive/folders/14gN2v8Uw7KintM2g_qRM-N6K5H55cBa"
 };
